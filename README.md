@@ -1,5 +1,5 @@
-# VNET peering visualization with GraphViz
-This powershell script output graphviz data of your VNET peerings. You can visualize VNET peerings in your subscriptions with Graphviz like below.
+# VNET and VPN peering visualization with GraphViz
+This powershell script output graphviz data of your VNET peerings and VPN peering. You can visualize VNET peerings in your subscriptions with Graphviz like below.
 ![VNet Peering visualization](https://raw.githubusercontent.com/normalian/Azure-VNET-Peering-Visualization/master/VNetPeerVisualize.png "VNet Peering visualization")
 
 ## Reference
