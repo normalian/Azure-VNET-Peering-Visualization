@@ -2,7 +2,13 @@
 This PowrShell script output graphviz data of your VNET peerings and VPN peering. You can visualize components connecting to your VNETs in your subscription with Graphviz like below(red lines are VPN peerings, black lines are VNET peerings, green circle is WebApps and yellow circle is Azure Redis Cache).
 ![VNet Peering visualization](https://raw.githubusercontent.com/normalian/Azure-VNET-Peering-Visualization/master/VNetPeerVisualize.png "VNet Peering visualization")
 
-This PowrShell script supports to visualize components sucha as VNET peerings, VPN peerings, WebApps VPN peerings and Azure Redis Cache.
+This PowrShell script supports to visualize components below.
+- VNET peerings
+- VPN peerings and VPN connection to on-premise
+- WebApps VPN peerings
+- Azure Redis Cache
+- Azure Storage
+- Azure SQL Database
 
 ## Reference
 - WebGraphviz http://www.webgraphviz.com/
